@@ -9,6 +9,7 @@ SSAFY AI Challenge에서 사용한 학습 코드는 `ai.py`입니다.
 
 * 대회에서 제공한 데이터를 다운로드한 후 압축을 해제하세요.
 * 압축을 해제하면 `train`, `valid`, `test` 폴더가 생성되며, 이 폴더들을 `ai.py` 파일과 동일한 디렉토리에 위치시켜야 합니다.
+* 또한 `data.yaml` 파일도 `ai.py` 파일과 동일한 디렉토리에 위치시켜야 합니다.
 
 ![디렉토리 구조](/photos/directory_hierarchy.png)
 
